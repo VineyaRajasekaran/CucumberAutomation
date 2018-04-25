@@ -84,6 +84,7 @@ public class StepDefination {
 			System.out.println("Element not found");
 		else
 			System.out.println("Element  found");
+		driver.close();
 
 	}
 	
@@ -108,7 +109,7 @@ public class StepDefination {
 			else
 				System.out.println("Element  found");
 
-	       
+	       driver.close();
 	    }
 	    
 	    @When("^the user enters \"([^\"]*)\"$")
@@ -153,6 +154,7 @@ public class StepDefination {
 	    @Then("^check whether filled in the form$")
 	    public void check_whether_filled_in_the_form() throws Throwable {
 	        System.out.println("success");
+	        driver.close();
 	    }
 
 	    

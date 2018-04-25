@@ -17,7 +17,7 @@ Given the browser opens
 When the user enters "CHE"
 Then check whether it has CHENNAI in dropdown
 
-@Testnow
+
 Scenario: Enter the travel details
 Given the browser opens
 When the user enters travel information

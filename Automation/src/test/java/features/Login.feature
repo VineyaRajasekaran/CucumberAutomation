@@ -18,7 +18,7 @@ When the user enters travel information
 | BENGALURU INTERNATION AIPORT | CHENNAI |
 Then check whether filled in the form
 
-@Testnow
+
 Scenario Outline:Parametrization
 Given User is in KSRTC Home Page
 When the user enters <From> and <To>travel information
