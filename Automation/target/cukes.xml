@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="79.861586">
-<testcase classname="Check KSRTC Dropdown;" name="Write BENG in FROM dropdown and check BEGALURU AIRPORT in dropdown" time="9.46978">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="291.490312">
+<testcase classname="Check KSRTC Dropdown;" name="Write BENG in FROM dropdown and check BEGALURU AIRPORT in dropdown" time="33.182147">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters "BENG".................................................passed
 Then check whether it has BENGALURU AIRPORT in dropdown.....................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="write CHENNAI in TO dropdown" time="8.427885">
+<testcase classname="Check KSRTC Dropdown;" name="write CHENNAI in TO dropdown" time="33.816828">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters "CHE"..................................................passed
 Then check whether it has CHENNAI in dropdown...............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="Enter the travel details" time="6.413335">
+<testcase classname="Check KSRTC Dropdown;" name="Enter the travel details" time="26.905983">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters travel information.....................................passed
 Then check whether filled in the form.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="Parametrization" time="10.566337">
+<testcase classname="Check KSRTC Dropdown;" name="Parametrization" time="27.047069">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters BENGALURU INTERNATION AIPORT and CHENNAItravel information.passed
 Then check whether filled in the form.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="Parametrization_2" time="6.482676">
+<testcase classname="Check KSRTC Dropdown;" name="Parametrization_2" time="31.778137">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters CHENNAI and VELLOREtravel information..................passed
 Then check whether filled in the form.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="Parametrization_3" time="6.932426">
+<testcase classname="Check KSRTC Dropdown;" name="Parametrization_3" time="26.506955">
 <system-out><![CDATA[Given User is in KSRTC Home Page............................................passed
 When the user enters BENGALURU INTERNATION AIPORT and COIMBATOREtravel information.passed
 Then check whether filled in the form.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check KSRTC Dropdown;" name="Facebook Login" time="9.594038">
+<testcase classname="Check KSRTC Dropdown;" name="Facebook Login" time="27.451773">
 <system-out><![CDATA[Given User is in fb login page..............................................passed
 When the user enters username and pwd.......................................passed
 And click login button......................................................passed
 Then check whether logged in................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check Background;" name="Write BENG in FROM dropdown and check BEGALURU AIRPORT in dropdown" time="6.664049">
+<testcase classname="Check Background;" name="Write BENG in FROM dropdown and check BEGALURU AIRPORT in dropdown" time="24.615784">
 <system-out><![CDATA[Given browser details.......................................................passed
 When browser trigerred to KSRTC website.....................................passed
 Then check whether browser is opened........................................passed
@@ -52,7 +52,7 @@ When the user enters "BENG".................................................pass
 Then check whether it has BENGALURU AIRPORT in dropdown.....................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check Background;" name="write CHENNAI in TO dropdown" time="8.512425">
+<testcase classname="Check Background;" name="write CHENNAI in TO dropdown" time="33.53941">
 <system-out><![CDATA[Given browser details.......................................................passed
 When browser trigerred to KSRTC website.....................................passed
 Then check whether browser is opened........................................passed
@@ -61,7 +61,7 @@ When the user enters "CHE"..................................................pass
 Then check whether it has CHENNAI in dropdown...............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Check Background;" name="Enter the travel details" time="6.798635">
+<testcase classname="Check Background;" name="Enter the travel details" time="26.646226">
 <system-out><![CDATA[Given browser details.......................................................passed
 When browser trigerred to KSRTC website.....................................passed
 Then check whether browser is opened........................................passed

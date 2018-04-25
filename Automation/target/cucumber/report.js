@@ -33,7 +33,7 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 6699353127,
+  "duration": 30124353014,
   "status": "passed"
 });
 formatter.match({
@@ -46,14 +46,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_something(String)"
 });
 formatter.result({
-  "duration": 175613834,
+  "duration": 289471597,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_it_has_bengaluru_airport_in_dropdown()"
 });
 formatter.result({
-  "duration": 2594812939,
+  "duration": 2768322512,
   "status": "passed"
 });
 formatter.scenario({
@@ -83,7 +83,7 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 5794626339,
+  "duration": 33186482890,
   "status": "passed"
 });
 formatter.match({
@@ -96,14 +96,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_something(String)"
 });
 formatter.result({
-  "duration": 153008039,
+  "duration": 214836606,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_it_has_chennai_in_dropdown()"
 });
 formatter.result({
-  "duration": 2480250986,
+  "duration": 415508624,
   "status": "passed"
 });
 formatter.scenario({
@@ -142,21 +142,21 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 5856846456,
+  "duration": 24425192831,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.the_user_enters_travel_information(DataTable)"
 });
 formatter.result({
-  "duration": 404625975,
+  "duration": 339189620,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_filled_in_the_form()"
 });
 formatter.result({
-  "duration": 151862458,
+  "duration": 2141600553,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -254,7 +254,7 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 9859322257,
+  "duration": 24271931812,
   "status": "passed"
 });
 formatter.match({
@@ -271,14 +271,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_and_travel_information(String,String)"
 });
 formatter.result({
-  "duration": 540056471,
+  "duration": 384365716,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_filled_in_the_form()"
 });
 formatter.result({
-  "duration": 166957782,
+  "duration": 2390771383,
   "status": "passed"
 });
 formatter.scenario({
@@ -312,7 +312,7 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 6103397628,
+  "duration": 31447638909,
   "status": "passed"
 });
 formatter.match({
@@ -329,14 +329,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_and_travel_information(String,String)"
 });
 formatter.result({
-  "duration": 246995585,
+  "duration": 196679852,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_filled_in_the_form()"
 });
 formatter.result({
-  "duration": 132282978,
+  "duration": 133818224,
   "status": "passed"
 });
 formatter.scenario({
@@ -370,7 +370,7 @@ formatter.match({
   "location": "StepDefination.user_is_in_ksrtc_home_page()"
 });
 formatter.result({
-  "duration": 6414000187,
+  "duration": 24062443269,
   "status": "passed"
 });
 formatter.match({
@@ -387,18 +387,18 @@ formatter.match({
   "location": "StepDefination.the_user_enters_and_travel_information(String,String)"
 });
 formatter.result({
-  "duration": 342123427,
+  "duration": 341006541,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_filled_in_the_form()"
 });
 formatter.result({
-  "duration": 176302164,
+  "duration": 2103505238,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5776419743,
+  "duration": 23736773704,
   "status": "passed"
 });
 formatter.scenario({
@@ -439,32 +439,32 @@ formatter.match({
   "location": "Hooks.user_is_in_fb_login_page()"
 });
 formatter.result({
-  "duration": 9411970,
+  "duration": 27671426,
   "status": "passed"
 });
 formatter.match({
   "location": "Hooks.the_user_enters_username_and_pwd()"
 });
 formatter.result({
-  "duration": 325221753,
+  "duration": 199576656,
   "status": "passed"
 });
 formatter.match({
   "location": "Hooks.click_login_button()"
 });
 formatter.result({
-  "duration": 1127598326,
+  "duration": 1376507116,
   "status": "passed"
 });
 formatter.match({
   "location": "Hooks.check_whether_logged_in()"
 });
 formatter.result({
-  "duration": 9669103,
+  "duration": 4644628,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2345716869,
+  "duration": 2106599895,
   "status": "passed"
 });
 formatter.uri("SampleTest.feature");
@@ -501,21 +501,21 @@ formatter.match({
   "location": "StepDefination.browser_details()"
 });
 formatter.result({
-  "duration": 2197544890,
+  "duration": 1985022481,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.browser_trigerred_to_ksrtc_website()"
 });
 formatter.result({
-  "duration": 3936969215,
+  "duration": 22096396137,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_browser_is_opened()"
 });
 formatter.result({
-  "duration": 12512290,
+  "duration": 17372517,
   "status": "passed"
 });
 formatter.scenario({
@@ -545,7 +545,7 @@ formatter.match({
   "location": "StepDefination.the_browser_opens()"
 });
 formatter.result({
-  "duration": 82313,
+  "duration": 84578,
   "status": "passed"
 });
 formatter.match({
@@ -558,14 +558,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_something(String)"
 });
 formatter.result({
-  "duration": 155011863,
+  "duration": 172887697,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_it_has_bengaluru_airport_in_dropdown()"
 });
 formatter.result({
-  "duration": 361928323,
+  "duration": 344020774,
   "status": "passed"
 });
 formatter.background({
@@ -594,21 +594,21 @@ formatter.match({
   "location": "StepDefination.browser_details()"
 });
 formatter.result({
-  "duration": 2311908990,
+  "duration": 1979667246,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.browser_trigerred_to_ksrtc_website()"
 });
 formatter.result({
-  "duration": 3845683641,
+  "duration": 31093697563,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_browser_is_opened()"
 });
 formatter.result({
-  "duration": 17763313,
+  "duration": 12135086,
   "status": "passed"
 });
 formatter.scenario({
@@ -638,7 +638,7 @@ formatter.match({
   "location": "StepDefination.the_browser_opens()"
 });
 formatter.result({
-  "duration": 42666,
+  "duration": 50973,
   "status": "passed"
 });
 formatter.match({
@@ -651,14 +651,14 @@ formatter.match({
   "location": "StepDefination.the_user_enters_something(String)"
 });
 formatter.result({
-  "duration": 129002174,
+  "duration": 180986816,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_it_has_chennai_in_dropdown()"
 });
 formatter.result({
-  "duration": 2208023905,
+  "duration": 272872367,
   "status": "passed"
 });
 formatter.background({
@@ -687,21 +687,21 @@ formatter.match({
   "location": "StepDefination.browser_details()"
 });
 formatter.result({
-  "duration": 2291400283,
+  "duration": 1961073252,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.browser_trigerred_to_ksrtc_website()"
 });
 formatter.result({
-  "duration": 3989487380,
+  "duration": 22270827387,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_browser_is_opened()"
 });
 formatter.result({
-  "duration": 11883617,
+  "duration": 7610907,
   "status": "passed"
 });
 formatter.scenario({
@@ -740,21 +740,21 @@ formatter.match({
   "location": "StepDefination.the_browser_opens()"
 });
 formatter.result({
-  "duration": 575811,
+  "duration": 679269,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.the_user_enters_travel_information(DataTable)"
 });
 formatter.result({
-  "duration": 357025807,
+  "duration": 315538303,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.check_whether_filled_in_the_form()"
 });
 formatter.result({
-  "duration": 148262220,
+  "duration": 2090497184,
   "status": "passed"
 });
 });
